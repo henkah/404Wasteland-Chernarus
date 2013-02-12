@@ -11,7 +11,7 @@ moderators = ["32077894", //Krykiln
 				"2771014", //MiniDude
                 "91598150", //Rainforger
                 "90615878", // Killer4791
-                "2264774" //Vesper
+                "2264774" //hhhhhh
 				]; 
 publicVariable "moderators"; 
            
